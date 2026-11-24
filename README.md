@@ -6,7 +6,7 @@ ELEC 631 (Fall 2026), team Hypotheticals (Group 3).
 ## Motivation
 
 - **Problem.** Under Figure 12.5 (p. 319), *Biology 2e* asks: a test cross gives three plants, all with round peas; is the round parent *RR* or *Rr*? The book leaves the question open. Exams rarely test this kind of reasoning: only 7% of 4,337 lower-division biology exam items asked students to use a scientific practice (Uminski et al., 2024).
-- **Goal.** Students practise two skills: picking an experiment whose result differs under each idea, and judging how strongly the data support a claim (no over-claiming from too few offspring).
+- **Goal.** Students practice two skills: picking an experiment whose result differs under each idea, and judging how strongly the data support a claim (no over-claiming from too few offspring).
 - **Course standard: the learner thinks more, not less.** The game never shows a result before the student has committed to a prediction, and it gives hints, not answers.
 - **No AI model at run time.** Every scored answer comes from a fixed key with a *Biology 2e* page reference. Offspring and enzyme readings are simulated from fixed ratios.
 
